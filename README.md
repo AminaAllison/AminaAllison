@@ -24,8 +24,9 @@
 - [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/GMQVTX2987UU)
 - [Penetration Testing, Incident Response and Forensics](https://www.coursera.org/account/accomplishments/certificate/9XTKSBJ6XQJY)
 - [Cybersecurity Bootcamp for Women](6363eb7d31dc6f3d316fde77)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Official (ISC)² Certified in Cybersecurity (CC) Self-Paced Training - 1M]()
+- [Short Course: Cryptography]()
+- [GDPR Data Protection Officer Skills]()
 
 <h2> 🤳 Connect with me:</h2>
 
