@@ -16,7 +16,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python Scripts</b>
-  - [Ceaser Cipher Python Script](https://github.com/AminaAllison/CeaserCipher-Python-Script)
+  - [Ceaser Cipher](https://github.com/AminaAllison/CeaserCipher-Python-Script)
 
 <h2>📺 Online Courses Certificates</h2>
 
