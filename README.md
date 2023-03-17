@@ -8,7 +8,7 @@
   - [Kioptrix Level 1.1 PenTest Report](https://github.com/AminaAllison/Kioptrix-Level-1.1)
 - <b>Bash Scripts</b>
   - [IP Sweep](https://github.com/AminaAllison/IP-Sweep)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Find Hidden Files](https://github.com/AminaAllison/Find-Hidden-Files)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>TryHackMe Completed Rooms</b>
