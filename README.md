@@ -5,7 +5,7 @@
 - <b>Kioptrix Level 1 Penetration Test Practice (Report)</b>
   - [Kioptrix Level 1 PenTest Report](https://github.com/AminaAllison/Kioptrix-Level-1/blob/main/README.md)
 - <b>Kioptrix Level 1.1 Penetration Test Practice (Report)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Kioptrix Level 1.1 PenTest Report](https://github.com/AminaAllison/Kioptrix-Level-1.1)
 - <b>Bash Scripts</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
