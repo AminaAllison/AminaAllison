@@ -9,10 +9,15 @@
 - <b>Bash Scripts</b>
   - [IP Sweep](https://github.com/AminaAllison/IP-Sweep)
   - [Find Hidden Files](https://github.com/AminaAllison/Find-Hidden-Files)
-- <b>TryHackMe Completed Rooms</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>TryHackMe Rooms Completed</b>
+  - [Nmap](https://tryhackme.com/room/furthernmap)
+  - [Penetration Testing Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+  - [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
+  - [Walking an Application](https://tryhackme.com/room/walkinganapplication)
+  - [Content Discovery](https://tryhackme.com/room/contentdiscovery)
+  - [Subdomain Enumeration]()
+  - [Authentication Bypass]()
+  - [IDOR]()
 - <b>Python Scripts</b>
   - [Ceaser Cipher](https://github.com/AminaAllison/CeaserCipher-Python-Script)
   - [Getting Phonenumber Details](https://github.com/AminaAllison/Getting-Phone-Number-Details-with-Python)
