@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Penetration Testing Projects:</h2>
 
-- <b>Kioptrix Level 1 Penetration Test Practice (Report)</b>
+- <b>Kioptrix Level 1 Penetration Test (Report)</b>
   - [Kioptrix Level 1 PenTest Report](https://github.com/AminaAllison/Kioptrix-Level-1)
-- <b>Kioptrix Level 1.1 Penetration Test Practice (Report)</b>
+- <b>Kioptrix Level 1.1 Penetration Test (Report)</b>
   - [Kioptrix Level 1.1 PenTest Report](https://github.com/AminaAllison/Kioptrix-Level-1.1)
 - <b>Bash Scripts</b>
   - [IP Sweep](https://github.com/AminaAllison/IP-Sweep)
