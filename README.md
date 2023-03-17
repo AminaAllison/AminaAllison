@@ -3,7 +3,7 @@
 <h2>👨‍💻 Penetration Testing Projects:</h2>
 
 - <b>Kioptrix Level 1 Penetration Test Practice (Report)</b>
-  - [Kioptrix Level 1 PenTest Report](https://github.com/AminaAllison/Kioptrix-Level-1/blob/main/README.md)
+  - [Kioptrix Level 1 PenTest Report](https://github.com/AminaAllison/Kioptrix-Level-1)
 - <b>Kioptrix Level 1.1 Penetration Test Practice (Report)</b>
   - [Kioptrix Level 1.1 PenTest Report](https://github.com/AminaAllison/Kioptrix-Level-1.1)
 - <b>Bash Scripts</b>
