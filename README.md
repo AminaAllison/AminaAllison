@@ -3,7 +3,7 @@
 <h2>👨‍💻 Penetration Testing Projects:</h2>
 
 - <b>Kioptrix Level 1 Penetration Test Practice (Report)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Kioptrix Level 1 PenTest Report](https://github.com/AminaAllison/Kioptrix-Level-1/blob/main/README.md)
 - <b>Kioptrix Level 1.1 Penetration Test Practice (Report)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Bash Scripts</b>
