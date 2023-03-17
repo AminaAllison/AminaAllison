@@ -17,6 +17,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python Scripts</b>
   - [Ceaser Cipher](https://github.com/AminaAllison/CeaserCipher-Python-Script)
+  - [Getting Phonenumber Details](https://github.com/AminaAllison/Getting-Phone-Number-Details-with-Python)
 
 <h2>📺 Online Courses Certificates</h2>
 
