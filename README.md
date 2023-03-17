@@ -9,8 +9,6 @@
 - <b>Bash Scripts</b>
   - [IP Sweep](https://github.com/AminaAllison/IP-Sweep)
   - [Find Hidden Files](https://github.com/AminaAllison/Find-Hidden-Files)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>TryHackMe Completed Rooms</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
