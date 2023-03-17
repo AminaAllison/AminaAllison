@@ -1,6 +1,6 @@
 <h1>Hi, I'm Amina Allison! <br/><a href="https://github.com/AminaAllison">Jnr. Penetration Tester</a> </h1>
 
-<h2>👨‍💻 Penetration Testing Projects:</h2>
+<h2>👨‍💻 Penetration Test Projects:</h2>
 
 - <b>Kioptrix Level 1 Penetration Test</b>
   - [Kioptrix Level 1 PenTest Report](https://github.com/AminaAllison/Kioptrix-Level-1)
