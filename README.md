@@ -23,7 +23,7 @@
   - [Get Phonenumber Details](https://github.com/AminaAllison/Getting-Phone-Number-Details-with-Python)
   - [Port Scanner](https://github.com/AminaAllison/Port-Scanner-with-Python)
 
-<h2>📺 Online Courses Certificates</h2>
+<h2>📄 Online Courses Certificates</h2>
 
 - [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/GMQVTX2987UU)
 - [Penetration Testing, Incident Response and Forensics](https://www.coursera.org/account/accomplishments/certificate/9XTKSBJ6XQJY)
