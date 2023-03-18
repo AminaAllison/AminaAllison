@@ -6,6 +6,10 @@
   - [Kioptrix Level 1 PenTest Report](https://github.com/AminaAllison/Kioptrix-Level-1)
 - <b>Kioptrix Level 1.1 Penetration Test</b>
   - [Kioptrix Level 1.1 PenTest Report](https://github.com/AminaAllison/Kioptrix-Level-1.1)
+- <b>Python Scripts</b>
+  - [Ceaser Cipher](https://github.com/AminaAllison/CeaserCipher-Python-Script)
+  - [Get Phonenumber Details](https://github.com/AminaAllison/Getting-Phone-Number-Details-with-Python)
+  - [Port Scanner](https://github.com/AminaAllison/Port-Scanner-with-Python)
 - <b>Bash Scripts</b>
   - [IP Sweep](https://github.com/AminaAllison/IP-Sweep)
   - [Find Hidden Files](https://github.com/AminaAllison/Find-Hidden-Files)
@@ -18,10 +22,7 @@
   - [Subdomain Enumeration]()
   - [Authentication Bypass]()
   - [IDOR]()
-- <b>Python Scripts</b>
-  - [Ceaser Cipher](https://github.com/AminaAllison/CeaserCipher-Python-Script)
-  - [Get Phonenumber Details](https://github.com/AminaAllison/Getting-Phone-Number-Details-with-Python)
-  - [Port Scanner](https://github.com/AminaAllison/Port-Scanner-with-Python)
+
 
 <h2>📄 Online Courses Certificates</h2>
 
@@ -31,6 +32,7 @@
 - [Official (ISC)² Certified in Cybersecurity (CC) Self-Paced Training - 1M]()
 - [Short Course: Cryptography]()
 - [GDPR Data Protection Officer Skills]()
+
 
 <h2> 🤳 Connect with me:</h2>
 
